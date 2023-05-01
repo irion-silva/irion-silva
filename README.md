@@ -13,7 +13,9 @@
 	
 ## **Sobre mim**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 300px></picture>
+
+
 
 <br>
 
@@ -66,33 +68,6 @@
 
 
 </p>
-
-<br>
-<br>
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/irion-silva/">
-  <img src="https://irion-silva-git-main-irion-silva.vercel.app/api/top-langs?username=irion-silva&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="irion-silva"/>
-  &nbsp;
-  <img src="https://irion-silva-git-main-irion-silva.vercel.app/api?username=irion-silva&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
 
 <br>
 <br>
