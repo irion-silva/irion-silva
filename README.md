@@ -21,7 +21,7 @@
 
 
 - 🚀 Um desenvolvedor front-end com grande entusiasmo.
-- 📚 Cursando Análise e Desenvolvimento de Sistemas.
+- 📚 Formado em Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estou aprendendo Desenvolvimento Web pela Rocketseat.
 - 🎯 Sempre buscando aprender novas tecnologias e ferramentas para aprimorar minhas habilidades.
 - 💼 Estou aberto a uma oportunidade de estágio ou emprego.
